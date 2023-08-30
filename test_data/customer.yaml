@@ -1,0 +1,32 @@
+AllCustomer:
+  view_name: 自动化A体系
+  view_name2: 自动化回归测试体系1
+  member_phone_num: 15880297643
+  member_phone_num2: 15880297644
+  member_phone_num3: 18484451426
+  member_phone_num4: 15258835849
+  platform_id: AAHaAT8nAABXSdgAARlWnSbK
+  name: 张大大
+  name1: 张大二
+  name2: 测试人员
+  name3: 白毅
+  area: 最伙小程序
+  nick: 酸菜猪肉炖粉条
+  close_nick: 酸菜猪**粉条
+  channel: 公众号搜索
+  type: 店长
+  grade: VIP1
+  is_member: 否
+  platform: 淘宝
+  official_account: 最伙
+  friend_status: 双向好友
+  Membership_Status: 会员
+  encryption_name: 张*大
+  integral: auto_pre50积分
+  encryption_phone_num3: 184*****42...
+  decrypt_phone_num3: 1848445142...
+  encryption_phone_num4: 158*****643
+  decrypt_phone_num4: 15880297643
+
+
+
